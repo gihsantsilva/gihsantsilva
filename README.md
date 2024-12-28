@@ -55,7 +55,7 @@ Sou apaixonada por tecnologia e por metodologias ágeis como Kanban e Scrum, que
 ## 🌐 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-santos-silva1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](giihovannassilva@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giihovannassilva@gmail.com)
 
 ---
 
