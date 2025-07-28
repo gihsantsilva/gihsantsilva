@@ -1,5 +1,5 @@
 ## 👋 Olá! Meu nome é Giovanna Silva,
-Tenho 19 anos e sou uma desenvolvedora com sólida base técnica adquirida durante minha trajetória acadêmica, abrangendo áreas como desenvolvimento web e mobile, bancos de dados, e análise de dados. Domino linguagens como Java, C, JavaScript, Kotlin e Python, além de ter experiência prática com bancos de dados relacionais e não relacionais, incluindo MySQL, DBeaver e Neo4j. 
+Tenho 20 anos e sou uma desenvolvedora com sólida base técnica adquirida durante minha trajetória acadêmica, abrangendo áreas como desenvolvimento web e mobile, bancos de dados, e análise de dados. Domino linguagens como Java, C, JavaScript, Kotlin e Python, além de ter experiência prática com bancos de dados relacionais e não relacionais, incluindo MySQL, PostgreSQL, MongoDB e Neo4j. 
 
 Sou apaixonada por tecnologia e por metodologias ágeis como Kanban e Scrum, que apliquei em projetos acadêmicos em equipe. Apesar de ainda não ter uma experiência profissional formal, estou preparada para enfrentar desafios reais, contribuindo com dedicação e criatividade para o sucesso da sua empresa.
 
