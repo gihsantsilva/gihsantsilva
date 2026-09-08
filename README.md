@@ -80,8 +80,16 @@ Plataforma desenvolvida como Trabalho de Conclusão do curso de Ciência da Comp
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gihsantsilva&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gihsantsilva&locale=pt-br&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais utilizadas" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=gihsantsilva&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br&hide_border=true"
+    height="150"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=gihsantsilva&locale=pt-br&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
 ---
