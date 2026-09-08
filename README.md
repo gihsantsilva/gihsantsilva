@@ -1,10 +1,10 @@
-# Olá! Eu sou a Giovanna Silva 👋
+# Olá! Eu sou a Giovanna Silva
 
 🎓 Estudante de **Ciência da Computação na USCS**, com conclusão prevista para dezembro de 2026.
 💼 **Monitora Técnica de Laboratório de TI** na USCS.
 💻 Interesse em **Desenvolvimento de Software** e **Segurança da Informação**.
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Atuo como Monitora Técnica de Laboratório de TI, prestando suporte aos ambientes de informática e auxiliando na manutenção de equipamentos e na instalação e configuração de softwares.
 
